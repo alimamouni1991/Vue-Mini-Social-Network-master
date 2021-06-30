@@ -1,5 +1,8 @@
 <template>
 
+
+
+
   <div class='home'>
     <div class='home_info'>
       <span>{{ feeds_len }} Feeds</span>
